@@ -1,0 +1,4 @@
+chmod +x /Users/apple/PycharmProjects/WebProject_TanyaOrlov/schedulePluginScrape.sh
+launchctl load -w /Users/apple/Library/LaunchAgents/apple.schedulePluginScrape.csc3130.plist
+launchctl list 'apple.schedulePluginScrape.csc3130'
+launchctl unload -w /Users/apple/Library/LaunchAgents/apple.schedulePluginScrape.csc3130.plist

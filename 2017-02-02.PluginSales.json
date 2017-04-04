@@ -1,0 +1,121 @@
+[
+  {
+    "Original Price": "$3,691",
+    "Product Name": "100% BX Bundle V2.8",
+    "Teaser": "Get all of the award-winning Brainworx plugins! M/S Mastering, Dynamic tools, virtual amps & more! Pay them off in 12 months same as cash!",
+    "brand": "Brainworx",
+    "currentPrice": "$1,402"
+  },
+  {
+    "Original Price": "$317",
+    "Product Name": "BX Mega Amp Bundle V1.0",
+    "Teaser": "Faithful emulations of perhaps the most popular boutique tube guitar amps ever built.",
+    "brand": "Brainworx",
+    "currentPrice": "$229"
+  },
+  {
+    "Original Price": "$946",
+    "Product Name": "100% elysia Bundle V1.1",
+    "Teaser": "From the flagship alpha compressor to the powerful mpressor to the brand new nvelope, elysia plugins deliver world-class results \u2014 get them all!",
+    "brand": "elysia",
+    "currentPrice": "$619"
+  },
+  {
+    "Original Price": "$317",
+    "Product Name": "E765/E646 Amp Bundle - V1.0",
+    "Teaser": "The ENGL Amp Bundle brings to the native plugin world a quality of guitar amp emulation previously only available to users of DSP based systems.",
+    "brand": "ENGL",
+    "currentPrice": "$229"
+  },
+  {
+    "Original Price": "$634",
+    "Product Name": "100% Lindell Bundle V1.1",
+    "Teaser": "Includes the brand new TE-100 EQ and four more killer processors with authentic vintage sound.",
+    "brand": "Lindell Audio",
+    "currentPrice": "$419"
+  },
+  {
+    "Original Price": "$336",
+    "Product Name": "ChannelX Bundle",
+    "Teaser": "Includes the 7X-500 limiter, the PEX-500 EQ and the 6X-500 preamp in a high value bundle with a few extra tricks!",
+    "brand": "Lindell Audio",
+    "currentPrice": "$249"
+  },
+  {
+    "Original Price": "$8,185",
+    "Product Name": "100% AAX DSP Bundle V1.3",
+    "Teaser": "48 world-class AAX DSP plugins. 9 highly respected pro audio companies. Installed & running full function 14-day demos in a few mouse clicks.",
+    "brand": "Plugin Alliance",
+    "currentPrice": "$3,499"
+  },
+  {
+    "Original Price": "$1,025",
+    "Product Name": "100% SoundGrid Bundle V1.0",
+    "Teaser": "5 of our most popular plugins from M\u00e4ag, SPL, elysia and Brainworx now available for the Waves SoundGrid platform",
+    "brand": "Plugin Alliance",
+    "currentPrice": "$629"
+  },
+  {
+    "Original Price": "$2,170",
+    "Product Name": "100% Venue AAX Bundle V1.1",
+    "Teaser": "A collection of live sound industry standards from M\u00e4ag, SPL, and Brainworx for the Avid S6L & VENUE | AAX platform",
+    "brand": "Plugin Alliance",
+    "currentPrice": "$1,029"
+  },
+  {
+    "Original Price": "$2,520",
+    "Product Name": "M/S Mastering Bundle - V2.3",
+    "Teaser": "Find out why mastering engineers the world over rely on M/S technology by downloading this complete M/S toolkit.",
+    "brand": "Plugin Alliance",
+    "currentPrice": "$1,129"
+  },
+  {
+    "Original Price": "$1,670",
+    "Product Name": "100% SPL Bundle V2.1",
+    "Teaser": "Transient Designer, Vitalizer, De-Essers, EQs & Saturation! 100% of the award-winning SPL plugins.",
+    "brand": "SPL",
+    "currentPrice": "$799"
+  },
+  {
+    "Original Price": "$464",
+    "Product Name": "100% Unfiltered Bundle V1.1",
+    "Teaser": "A comprehensive collection of sound-bending tools from Unfiltered Audio.",
+    "brand": "Unfiltered Audio",
+    "currentPrice": "$249"
+  },
+  {
+    "Original Price": "$299",
+    "Product Name": "bx_console",
+    "Teaser": "bx_console takes in-the-box mixing to a new level of analog realism using Brainworx\u2019s new Tolerance Modeling Technology.",
+    "brand": "Brainworx",
+    "currentPrice": "$149"
+  },
+  {
+    "Original Price": "$199",
+    "Product Name": "bx_hybrid V2",
+    "Teaser": "This powerful, flexible 11-band EQ allows you to quickly identify and fix problem frequencies.",
+    "brand": "Brainworx",
+    "currentPrice": "$99"
+  },
+  {
+    "Original Price": "$99",
+    "Product Name": "bx_shredspread",
+    "Teaser": "Intelligent M/S processing will make your stereo guitar & keyboard tracks wide and fat.  A great tool to have in your arsenal.",
+    "brand": "Brainworx",
+    "currentPrice": "$49"
+  },
+  {
+    "Original Price": "$199",
+    "Product Name": "bx_rooMS",
+    "Teaser": "One of the lushest and most realistic reverb plugins in existence, bx_rooMS is a marriage of Brainworx M/S processing and Fiedler Audio TrueSpace technology.",
+    "brand": "Brainworx",
+    "currentPrice": "$99"
+  },
+  {
+    "Original Price": "$129",
+    "Product Name": "bx_stereomaker",
+    "Teaser": "Frequency-optimized M/S upmixing plugin quickly and easily converts mono signals to stereo.",
+    "brand": "Brainworx",
+    "currentPrice": "$59"
+  }
+]

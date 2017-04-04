@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>apple.scheduleTest.csc3130</string>
+
+	<key>WorkingDirectory</key>
+	<string>/Users/apple/PycharmProjects/WebProject_TanyaOrlov/</string>
+
+	<key>ProgramArguments</key>
+	<array>
+		<string>bash</string>
+		<string>scheduleTest.sh</string>
+	</array>
+
+	<key>StartCalendarInterval</key>
+	<dict>
+  		<key>Hour</key>
+  		<integer>16</integer>
+  		<key>Minute</key>
+  		<integer>26</integer>
+	</dict>
+
+</dict>
+</plist>
